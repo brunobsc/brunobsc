@@ -1,10 +1,17 @@
+<p align="center"><a href="https://brunobsc.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+
 ## Bem-vindo !!!
- <div>
-  <a href="https://github.com/brunobsc">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=brunobsc&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobsc&layout=compact&langs_count=7&theme=vue-dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <!---<img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-->
-</div>
-  
+<br />
+
+<!--
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+-->
+
+| <a href="https://github.com/brunobsc"><img align="center" src="https://github-readme-stats.vercel.app/api?username=brunobsc&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/brunobsc"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobsc&layout=compact&theme=vue-dark&hide_border=true" /></a> |
+| ------------- | ------------- |
