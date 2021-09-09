@@ -1,5 +1,3 @@
-<p align="center"><a href="https://brunobsc.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
-
 ## Bem-vindo !!!
 <br />
 
@@ -13,5 +11,5 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 -->
 
-| <a href="https://github.com/brunobsc"><img align="center" src="https://github-readme-stats.vercel.app/api?username=brunobsc&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/brunobsc"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobsc&layout=compact&theme=vue-dark&hide_border=true" /></a> |
+| <a href="https://github.com/brunobsc"><img align="center" src="https://github-readme-stats.vercel.app/api?username=brunobsc&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="Bruno SC" /></a> | <a href="https://github.com/brunobsc"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobsc&layout=compact&theme=vue-dark&hide_border=true" /></a> |
 | ------------- | ------------- |
